@@ -9,6 +9,8 @@ A simple and interactive Wordle game built with SwiftUI for iOS. The game lets u
 - **Animations**: Win and lose animations using Lottie.
 - **Play Again**: Option to restart the game after a win or loss.
 - **Character Matching**: If particular character is matched, it will be shown on the screen.
-
-
+ 
+ ## Name : Naveed Lihazi
+ ## Roll : 2007038
+ 
 
